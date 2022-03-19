@@ -1,0 +1,15 @@
+.country{
+    background-color: aqua;
+    padding: 1%;
+    margin: 2%;
+}
+.coatOA{
+    width: 7%;
+    height: 50%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
