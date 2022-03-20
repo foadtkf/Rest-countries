@@ -1,6 +1,7 @@
 import React from 'react';
 import './SingleCountry.css'
 const SingleCountry = (props) => {
+    
     return (
         <div className='country'>
         <div className='head'>
